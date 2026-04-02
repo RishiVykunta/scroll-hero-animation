@@ -6,6 +6,7 @@ This project implements a dynamic multi-layered GSAP timeline handling bouncing 
 
 The layout executes a deeply premium, sleek glassmorphic footprint anchored by individual CSS structural properties, preventing standard GSAP variable overlapping.
 
+🔗 **Live Demo**: https://scroll-hero-animation-ten.vercel.app/
 ---
 
 ## 🚀 Tech Stack
